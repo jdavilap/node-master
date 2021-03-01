@@ -1,0 +1,24 @@
+{
+  "name": "node-master-course",
+  "version": "1.0.0",
+  "description": "I want this repo to save all my work around this course.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jdavilap/node-master.git"
+  },
+  "author": "JOSE ANTONIO",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jdavilap/node-master/issues"
+  },
+  "homepage": "https://github.com/jdavilap/node-master#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7"
+  }
+}
